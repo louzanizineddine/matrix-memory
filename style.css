@@ -1,0 +1,25 @@
+body {
+    color: white !important;
+}
+.row {
+    margin: 0 !important;
+}
+
+.cell {
+    font-size: xx-large;
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightseagreen;
+}
+
+.clicked-square {
+    background-color: coral !important;
+}
+
+.active {
+    background-color: cornflowerblue !important;
+}
