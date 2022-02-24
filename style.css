@@ -23,3 +23,12 @@ body {
 .active {
     background-color: cornflowerblue !important;
 }
+
+.correct {
+    background-color: green !important;
+}
+
+.wrong {
+    background-color: red !important;
+}
+
